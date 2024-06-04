@@ -1,4 +1,4 @@
-```markdown
+
 # Sentiment Analysis for Restaurant Reviews
 
 ## Overview
@@ -138,4 +138,4 @@ The Sentiment Analysis for Restaurant Reviews project is designed to collect, an
 - Test authentication and authorization mechanisms.
 
 By integrating these features, the Sentiment Analysis for Restaurant Reviews system offers a comprehensive solution for managing customer feedback, enhancing user productivity, and ensuring efficient review management.
-```
+
